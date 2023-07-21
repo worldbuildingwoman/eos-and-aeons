@@ -1,11 +1,6 @@
-# Obsidian Notes
 
-Publish your public notes with MkDocs
+Welcome to Eos and the Aeons, a homebrewed D&D 5e campaign. Here's a few quick points to get you started, but you can use the sidebar on the left to explore further.
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+## Campaign Quick Finds
+- Explore the playable races in **Culture & Demographics** > **Lineages (Playable Races)**
+- Session recaps will be kept in **Campaign Notes** > **Session Recaps**

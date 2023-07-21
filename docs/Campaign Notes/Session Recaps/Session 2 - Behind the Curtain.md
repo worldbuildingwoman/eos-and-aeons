@@ -1,0 +1,12 @@
+**Date:** 12/8/22
+**Primary location:** [[City - Pencaster]], Crystal Chalice, the orphanage
+
+After another harrowing experience at the Pencaster theater, the group managed to convince Ursula and Morph to share more about what was going on. Morph took you backstage to their dressing room where they managed to still evade a lot of questions. Through the conversation, Wolf announced that he has decided to run away, to which Alina offers him a place to stay at her family's outpost in the Wilds. Eventually, Ursula suggests that you come to the tavern with her to meet her family, who will be better equipped to explain what's going on. On their way out, they run into Wolf's mother who he lies to and says he's taking Alina, his new "friend", out for a bit. She asks Viktor to give Wolf some money but before they leave, Morielle ends up stealing the rest of Viktor's coin. At the Crystal Chalice, Alina and Ursula head to the back with her family while Morielle, Phineas and Wolf go inside to get drinks. Wolf gets hammered almost immediately by downing some ales but they manage to get him outside before the city guard catches him. Once outside, they're introduced to Xalvador, Bala, and Peyton. Xalvador is the one in charge and fills them in on a little more. Bala is the grandmother and ends up looking into Phinneas' mind and sees his past as a Phoenix. This leads to Xalvador telling them a little bit more of Time although he says the full of it isn't for him to tell. Bala then tried to look into Morielle's mind but was meant with a blinding and painful flash. After finishing their drinks, Morielle takes the entire group to the orphanage where he's concerned for Case. Xalvador promises to keep an eye out for him and to see if the night terror will come back while the other four decide to set off and see if they can find their way to Time, and to get Phineas answers. You did a little bit of shopping, specifically the blacksmith, before heading off towards Alina's home.
+
+### Recap
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlQ4nSwQeTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ 
+
+### Character(s) interacted with
+
+[[Morph]], [[Ursula]], [[Xalvador]], [[Bala]], [[Peyton]], [[Viktor]]

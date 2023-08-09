@@ -9,8 +9,6 @@ species: vampire
 Goal:
 Additional Goal:
 Fear:
-
-DM Secrets: The House of Ash was working with Fortune and killed Caspian Void, and attacked Carmilla as they were getting too close to the truth.
 ---
 
 *The house stands tall, its stone facade weathered by centuries of existence. Its Gothic architecture boasts intricate carvings of intertwining vines, gargoyles perched upon its corners, and stained glass windows depicting scenes of darkness and immortality. The grand entrance, flanked by towering marble columns, is a heavy wooden door, closed with a lit torch on either side.*

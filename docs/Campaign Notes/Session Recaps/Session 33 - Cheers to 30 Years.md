@@ -1,0 +1,14 @@
+**Date:** May 23, 2024
+**Primary location:** Boundless Shae, Tempor, Oraculum
+
+## Summary
+
+After looting the mercenarires' bodies, the group heads back into Cera's for a short rest. Niamh, irritated by all that had happened spends the time arguing with Cera. She's convinced she needs her memory wiped in order to keep Cera safe. The party tries to help think of another way, but Niamh remains unconvinced and eventually leaves ahead of the rest of them, to find someone who will wipe her memory. After another round of goodbyes, the party departs and heads back towards Tempor. After reaching Embercrest, they decide it's probably best to stop in an apologize to Ignatius for what transpired with Ichi and Drax, and he assures them that he's not upset - the striders are used to battle and they served their purpose. He offers them a place to stay at the local hot springs, where the party rests for the night to recover and recoup before continuing onward. The next day, they make it back to Tempor and spend the day searching the city for a place that might have the birds Henrietta mentioned. They meet an automaton named S.W.E.E.P. whose only job it is to clean up the streets - he points them towards the harbor for the pigeons. During their trip, they spread the rumor of Alina being a famed birdologist to help hide the fact that they're asking after birds ?? but eventually it's the rumor of a mysterious brewery that popped back up after being gone for 30 years that catches their attention and then head over to find the building. It's book eery and surprisingly welcoming and as the party starts to go inside, they're stopped by a frazzled looking innkeeper who warns them that she had a friend go in to check it out several ddays ago and they never returned. She asks the party if they head inside and happen to meet someone named Dray, and if they make it out again, that they'll check in with her at the Sleepy Sword Inn. Unharried by the warning, they head inside and find the brewery in full swing of a party. Dozens of individuals are here, drinking and listening to the bard on the stage play but all of them think it's 30 years ago. After some swift investigation, the party discovers that the bard's ability to command their rapt attention is an enchantment of some kind, but not one they're wielding. Intent on finding the source, they're interrupted as an orcish man walks over to the bar and seems to recognize Phinneas. Henrietta also finally chimes in that this is indeed the cover for Phinneas' tower - but something is off.
+
+### Recap
+
+https://youtu.be/V9yOwMGS_1M
+
+### Rewards Granted
+
+### Characters Interacted With

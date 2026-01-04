@@ -25,7 +25,7 @@ While in the Mundane, devils appear to be as humanoid as the rest of humanity. I
 
 **The Art of the Trade:** Once per long rest, you may attempt to execute a magical bargain. Naratively, this requires a formal binding gesture of your choosing (i.e. a handshake, a blood oath, a signature, etc.), which the bargainee must agree to of their own free-will. No bargains made under magical coercion can be paid to Despair. A devil’s end of the bargain is anything within their power to grant, be it magical or otherwise. The bargainee’s end is their soul, promise to Despair. 
 
-**The Price Paid:** Anytime a soul is attained, it is soon after consumed. The consumption of a mortal soul has a plethora of benefits to a devil. A soul can be exchanged for either: advantage on a specific skill check for a day, a replenished spell slot, one free casting of a spell in the next available level. (i.e. if you highest level spell slot is 4th, you may cast one fifth level spell.) The spell is a one time use but does not expire.
+**The Price Paid:** Anytime a soul is attained, it is soon after consumed. The consumption of a mortal soul has a plethora of benefits to a devil. A soul can be exchanged for either: advantage on a specific skill check for a day, roll up to half your hit dice, replenish a single spent resource (action surge, second wind, innate sorcery, etc.), replenish a spell slot, one free casting of a spell in the next available level. (i.e. if you highest level spell slot is 4th, you may cast one fifth level spell.) The spell is a one time use but does not expire. 
 
 **Geographic Distribution:** [[Domain - Ennui]]
 
